@@ -12,9 +12,11 @@ For Deep Security specific issues, please use the regular Trend Micro support ch
 
 ## Requirements
 
-All of the tasks in this repository require a working Deep Security infrastructure. The key component is the Trend Micro Deep Security Manager. The Deep Security Agents (which these playbooks help you manage) do the heavy lifting but the Deep Security Manager gives the orders. 
+All of the tasks in this repository require a working Deep Security infrastructure or Cloud One Workload Security. The key component is the Trend Micro Deep Security Manager. The Deep Security Agents (which these playbooks help you manage) do the heavy lifting but the Deep Security Manager gives the orders. 
 
 There are no specific technical requirements beyond a standard Ansible deployment.
+
+Create a Cloud One account in: https://cloudone.trendmicro.com/
 
 
 ## Dependencies
